@@ -1,20 +1,20 @@
 # Nykaa Sales Analysis Dashboard (Power BI)
 
-## 📌 Project Overview
+# Project Overview
 This project analyzes Nykaa sales data for 3 years (2023–2025) using Power BI.
 
-## 📊 Tools Used
+# Tools Used
 - Power BI
 - Excel
 - DAX
 
-## 📈 Key Insights
+# Key Insights
 - Year-on-Year Sales Growth
 - Top Performing Categories
 - Customer Retention & Repeat Rate
 - Monthly Trend Analysis
 
-## 🗂 Dataset
+# Dataset
 - Sales Data (3 Years)
 - Customer Feedback Data
 
@@ -27,10 +27,14 @@ This project analyzes Nykaa sales data for 3 years (2023–2025) using Power BI.
 
 
 
-## 🚀 Learnings
+# Learnings
 - Data modeling & relationships
 - Advanced DAX measures
 - Visual storytelling
 
-## 🔗 Author
-Vanita Das
+# Author
+Vanita Das 
+Senior Data Analyst | Power BI | Data Analytics
+
+📍Navi Mumbai
+🔗 LinkedIn: https://www.linkedin.com/in/vanitadas
