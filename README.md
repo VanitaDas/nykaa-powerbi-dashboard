@@ -23,10 +23,7 @@ This project analyzes Nykaa sales data for 3 years (2023–2025) using Power BI.
 <img width="1070" height="641" alt="image" src="https://github.com/user-attachments/assets/21a3314a-51f4-48a0-a87d-b857ff3a11c0" />
 <img width="1047" height="640" alt="image" src="https://github.com/user-attachments/assets/1f76c3a0-1126-4e78-be3a-e04c786ec273" />
 <img width="1066" height="621" alt="image" src="https://github.com/user-attachments/assets/fd158e52-e0cc-4d71-84dd-de11bd625abf" />
-![Uploading image.png…]()
-
-
-
+<img width="1055" height="641" alt="image" src="https://github.com/user-attachments/assets/69cbd493-faf1-4116-a065-c28bda4903b9" />
 
 
 
